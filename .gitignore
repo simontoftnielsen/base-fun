@@ -27,6 +27,7 @@ yarn-error.log*
 
 # local env files
 .env*.local
+.env
 
 # vercel
 .vercel
@@ -34,3 +35,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# prisma password: pscale_pw_KRTl0xPHJwHuDkfHkpUoDD81K591Bn1pL9LnmHM0YYh
